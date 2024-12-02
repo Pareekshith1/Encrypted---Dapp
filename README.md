@@ -61,23 +61,6 @@ flutter run
 ```
 Open your browser and navigate to http://localhost:3000 to start interacting with the platform.
 
-### Usage
-Create an Account: Register by creating a wallet or connecting your existing Web3 wallet (e.g., MetaMask).
-Browse Solar Panels: View available solar panels for fractional ownership.
-Invest in Solar Panels: Choose the panel(s) and invest by purchasing fractional shares.
-Manage Investments: Track your investments, buy/sell shares, or withdraw your earnings.
-AI Commands: Use the integrated AI to manage your wallet and transactions by typing commands like:
-"Transfer [amount] to [address]"
-"Receive [amount] from [address]"
-Contributing
-We welcome contributions! If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature).
-Submit a pull request.
-
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
