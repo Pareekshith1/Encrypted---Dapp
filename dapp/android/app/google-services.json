@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925485135320",
+    "project_id": "dapp-fee8d",
+    "storage_bucket": "dapp-fee8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925485135320:android:1b19dfa42df6ded8e1aead",
+        "android_client_info": {
+          "package_name": "com.example.dapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5J5DEmIr-XPw6T_siX1ZSbjfAShL7ty4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -33,9 +33,18 @@ dependencies:
   okto_flutter_sdk:
     git:
       url: https://github.com/okto-hq/okto-sdk-flutter.git
-
   google_sign_in: ^5.1.0
+  flutter_web3: ^1.0.0
+  googleapis_auth: ^1.0.0
   cupertino_icons: ^1.0.8
+  web3dart: ^2.0.0
+  webview_flutter: ^4.8.0
+  sqflite: ^2.0.0+4
+  path_provider: ^2.0.0
+  oauth2_client: ^3.3.0
+  firebase_auth: ^4.7.0 # Firebase authentication package (check for the latest version)
+  shared_preferences: ^2.1.0 # Shared preferences package (check for the latest version)
+  firebase_core: ^2.19.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
